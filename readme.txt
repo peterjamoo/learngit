@@ -5,3 +5,4 @@ Git is free software distributed under the GPL
 time is 2216 the 5th line
 add dev branch
 add dev1 branch
+Creating a new branch is quick
